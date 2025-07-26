@@ -1,0 +1,12 @@
+{
+  "name": "node-async-error-handling-challenge",
+  "version": "1.0.0",
+  "description": "Node.js coding challenge for async/await error handling and API calls",
+  "main": "async_error_challenge.js",
+  "scripts": {
+    "start": "node async_error_challenge.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  }
+} 
